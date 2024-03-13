@@ -13,7 +13,7 @@ Heterogeneous catalysis is catalysis where the phase of catalysts differs from t
 
 Heterogeneous catalysis typically involves solid phase catalysts and gas phase reactants.[2] In this case, there is a cycle of molecular adsorption, reaction, and desorption occurring at the catalyst surface. Thermodynamics, mass transfer, and heat transfer influence the rate (kinetics) of reaction.
 
-Artificial Intellihence & Machine Learning in Chemical Engineering
+Artificial Intelligence & Machine Learning in Chemical Engineering
 ======
 Edge-cutting AI techqniues in advancing the study of heterogenrous catalysis
 Artificial Intelligence in Chemical Engineering
