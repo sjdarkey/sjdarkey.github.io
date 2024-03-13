@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "HTEROGENOUS & COMPUTAIONAL CATALYSIS"
+title: "HETEROGENOUS & COMPUTAIONAL CATALYSIS"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Invent the future [academicpages template]
+Invent the future
 ======
 
 Heterogenous Catalysis
